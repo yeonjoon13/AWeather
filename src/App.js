@@ -21,8 +21,6 @@ import logo from './assets/Frame14.png'
 
 
 function App() {
-  
-  
   const [data, setData] = useState({})
   const [data2, setData2] = useState({})
   const [data3, setData3] = useState({})
@@ -33,7 +31,7 @@ function App() {
 
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&&appid=07cf34b837da47fcea87a346e3a7b049`
   const hourlyURL = `https://api.openweathermap.org/data/2.5/forecast?q=${location}&appid=07cf34b837da47fcea87a346e3a7b049&units=imperial`
-  const locationURL = `http://api.timezonedb.com/v2.1/get-time-zone?key=7USI9W7I28TK&format=json&by=position&lat=${lat}&lng=${lon}`
+  const locationURL = `https://api.timezonedb.com/v2.1/get-time-zone?key=7USI9W7I28TK&format=json&by=position&lat=${lat}&lng=${lon}`
 
   const getValues = () => {
     if(lat !== '') {
