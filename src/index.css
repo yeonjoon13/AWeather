@@ -39,8 +39,8 @@ h1, h3 {
 .logo {
   position: relative;
   z-index: 999;
-  margin-left: 4%;
-  bottom: 90px;
+  margin-left: 8%;
+  bottom: 75px;
   margin-right: auto;
 }
 

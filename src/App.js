@@ -301,7 +301,7 @@ function App() {
         <div className='searchIcon'><SearchIcon/></div>
       </div>
       <video loop autoPlay muted src={background} type="video/mp4"/>
-      <img className="logo" src={logo} alt = "logo" width={250} height={70} />
+      <img className="logo" src={logo} alt = "logo" width={200} height={40} />
       <div className="container">
         <div className="top">
             <h1 className="temp"> {data.main ? <h1>{data.main.temp.toFixed()}°</h1> : null}</h1>
