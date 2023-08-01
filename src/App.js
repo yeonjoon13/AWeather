@@ -38,6 +38,7 @@ function App() {
       axios.get(locationURL).then((response2) => {
         setData2(response2.data);
       })
+      
     };
   }
 
@@ -289,7 +290,6 @@ function App() {
 
   return (
     <div className="app">
-      <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
       <div className="search">
         <input
         value={location}
