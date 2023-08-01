@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react'
+import React, {useState} from 'react'
 import axios from 'axios'
 import images from './images.js';
 import SearchIcon from '@mui/icons-material/Search';
@@ -17,8 +17,7 @@ import scattered_clouds_morning from './assets/videos/scattered_clouds_morning.m
 import sunny_waves from './assets/videos/sunny_waves.mp4'
 import thunderstorm_night from './assets/videos/thunderstorm_night.mp4'
 import logo from './assets/Frame14.png'
-import windy_morning from './assets/videos/windy_morning.mp4'
-import windy_night from './assets/videos/windy_night.mp4'
+
 
 
 function App() {
