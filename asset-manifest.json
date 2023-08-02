@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/AWeather2/static/css/main.1f27270d.css",
-    "main.js": "/AWeather2/static/js/main.9cbb82ae.js",
-    "static/media/clearsky_night.mp4": "/AWeather2/static/media/clearsky_night.3a5688c4e649db46b601.mp4",
-    "static/media/mist2.mp4": "/AWeather2/static/media/mist2.fe363c100f5612de2e2e.mp4",
-    "static/media/few_clouds_morning.mp4": "/AWeather2/static/media/few_clouds_morning.e6d97fcf866254b1d62b.mp4",
-    "static/media/broken_clouds_day.mp4": "/AWeather2/static/media/broken_clouds_day.bcf35eaa81dd23068b24.mp4",
-    "static/media/few_clouds_afternoon.mp4": "/AWeather2/static/media/few_clouds_afternoon.825065d5880297f188e3.mp4",
-    "static/media/rain_night.mp4": "/AWeather2/static/media/rain_night.b307a74e71299bdbe42f.mp4",
-    "static/media/blossom.mp4": "/AWeather2/static/media/blossom.6a9c5e012522200b5276.mp4",
-    "static/media/scattered_clouds_evening.mp4": "/AWeather2/static/media/scattered_clouds_evening.3d7771a565a5d520c223.mp4",
-    "static/media/scattered_clouds_morning.mp4": "/AWeather2/static/media/scattered_clouds_morning.6d482fd24dba21170a36.mp4",
-    "static/media/sunny_waves.mp4": "/AWeather2/static/media/sunny_waves.88f811c057f3f1e95431.mp4",
-    "static/media/snow.mp4": "/AWeather2/static/media/snow.7230d2255c2a66cf0682.mp4",
-    "static/media/rain_morning.mp4": "/AWeather2/static/media/rain_morning.a7ce1ea26602ceb56db8.mp4",
-    "static/media/broken_clouds_night.mp4": "/AWeather2/static/media/broken_clouds_night.57c175eb68aa6b0ff80a.mp4",
-    "static/media/mist.mp4": "/AWeather2/static/media/mist.1d83519ee670216ce772.mp4",
-    "static/media/thunderstorm_night.mp4": "/AWeather2/static/media/thunderstorm_night.a59fc353c7fe90cd4a46.mp4",
-    "static/media/Frame14.png": "/AWeather2/static/media/Frame14.94dc116b113dfe6e8a84.png",
-    "index.html": "/AWeather2/index.html",
-    "main.1f27270d.css.map": "/AWeather2/static/css/main.1f27270d.css.map",
-    "main.9cbb82ae.js.map": "/AWeather2/static/js/main.9cbb82ae.js.map"
+    "main.css": "/AWeather/static/css/main.1f27270d.css",
+    "main.js": "/AWeather/static/js/main.f607b22d.js",
+    "static/media/clearsky_night.mp4": "/AWeather/static/media/clearsky_night.3a5688c4e649db46b601.mp4",
+    "static/media/mist2.mp4": "/AWeather/static/media/mist2.fe363c100f5612de2e2e.mp4",
+    "static/media/few_clouds_morning.mp4": "/AWeather/static/media/few_clouds_morning.e6d97fcf866254b1d62b.mp4",
+    "static/media/broken_clouds_day.mp4": "/AWeather/static/media/broken_clouds_day.bcf35eaa81dd23068b24.mp4",
+    "static/media/few_clouds_afternoon.mp4": "/AWeather/static/media/few_clouds_afternoon.825065d5880297f188e3.mp4",
+    "static/media/rain_night.mp4": "/AWeather/static/media/rain_night.b307a74e71299bdbe42f.mp4",
+    "static/media/blossom.mp4": "/AWeather/static/media/blossom.6a9c5e012522200b5276.mp4",
+    "static/media/scattered_clouds_evening.mp4": "/AWeather/static/media/scattered_clouds_evening.3d7771a565a5d520c223.mp4",
+    "static/media/scattered_clouds_morning.mp4": "/AWeather/static/media/scattered_clouds_morning.6d482fd24dba21170a36.mp4",
+    "static/media/sunny_waves.mp4": "/AWeather/static/media/sunny_waves.88f811c057f3f1e95431.mp4",
+    "static/media/snow.mp4": "/AWeather/static/media/snow.7230d2255c2a66cf0682.mp4",
+    "static/media/rain_morning.mp4": "/AWeather/static/media/rain_morning.a7ce1ea26602ceb56db8.mp4",
+    "static/media/broken_clouds_night.mp4": "/AWeather/static/media/broken_clouds_night.57c175eb68aa6b0ff80a.mp4",
+    "static/media/mist.mp4": "/AWeather/static/media/mist.1d83519ee670216ce772.mp4",
+    "static/media/thunderstorm_night.mp4": "/AWeather/static/media/thunderstorm_night.a59fc353c7fe90cd4a46.mp4",
+    "static/media/Frame14.png": "/AWeather/static/media/Frame14.94dc116b113dfe6e8a84.png",
+    "index.html": "/AWeather/index.html",
+    "main.1f27270d.css.map": "/AWeather/static/css/main.1f27270d.css.map",
+    "main.f607b22d.js.map": "/AWeather/static/js/main.f607b22d.js.map"
   },
   "entrypoints": [
     "static/css/main.1f27270d.css",
-    "static/js/main.9cbb82ae.js"
+    "static/js/main.f607b22d.js"
   ]
 }
