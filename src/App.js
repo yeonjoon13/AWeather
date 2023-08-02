@@ -16,6 +16,7 @@ import scattered_clouds_evening from './assets/videos/scattered_clouds_evening.m
 import scattered_clouds_morning from './assets/videos/scattered_clouds_morning.mp4'
 import sunny_waves from './assets/videos/sunny_waves.mp4'
 import thunderstorm_night from './assets/videos/thunderstorm_night.mp4'
+import snow from './assets/videos/snow.mp4'
 import logo from './assets/Frame14.png'
 
 
