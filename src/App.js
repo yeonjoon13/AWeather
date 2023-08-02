@@ -290,6 +290,7 @@ function App() {
 
   return (
     <div className="app">
+      <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
       <div className="search">
         <input
         value={location}
