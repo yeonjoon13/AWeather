@@ -70,7 +70,7 @@ function App() {
   }
   
 
-  function getLocation() {
+function getLocation() {
       if (Object.keys(data2).length !== 0 && Object.keys(data).length !== 0 ) {
         if (data.weather[0].description === "few clouds") {
           if (parseInt(data2.formatted.substring(10,16)) > 17) {
@@ -106,10 +106,8 @@ function App() {
               setBackground(thunderstorm_night)
           } else if (data.weather[0].description.includes("snow")) {
             if (parseInt(data2.formatted.substring(10,16)) > 17) {
-              setBackground(rain_morning) //need snow
-            } else {
-              setBackground(rain_night) //need snow
-            }
+              setBackground(snow) 
+            } 
           }  else if (data.weather[0].description.includes("scattered clouds")) {
             if (parseInt(data2.formatted.substring(10,16)) > 17) {
               setBackground(scattered_clouds_evening) 
