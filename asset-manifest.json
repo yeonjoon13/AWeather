@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AWeather2/static/css/main.1f27270d.css",
-    "main.js": "/AWeather2/static/js/main.92201b1c.js",
+    "main.js": "/AWeather2/static/js/main.9cbb82ae.js",
     "static/media/clearsky_night.mp4": "/AWeather2/static/media/clearsky_night.3a5688c4e649db46b601.mp4",
     "static/media/mist2.mp4": "/AWeather2/static/media/mist2.fe363c100f5612de2e2e.mp4",
     "static/media/few_clouds_morning.mp4": "/AWeather2/static/media/few_clouds_morning.e6d97fcf866254b1d62b.mp4",
@@ -12,6 +12,7 @@
     "static/media/scattered_clouds_evening.mp4": "/AWeather2/static/media/scattered_clouds_evening.3d7771a565a5d520c223.mp4",
     "static/media/scattered_clouds_morning.mp4": "/AWeather2/static/media/scattered_clouds_morning.6d482fd24dba21170a36.mp4",
     "static/media/sunny_waves.mp4": "/AWeather2/static/media/sunny_waves.88f811c057f3f1e95431.mp4",
+    "static/media/snow.mp4": "/AWeather2/static/media/snow.7230d2255c2a66cf0682.mp4",
     "static/media/rain_morning.mp4": "/AWeather2/static/media/rain_morning.a7ce1ea26602ceb56db8.mp4",
     "static/media/broken_clouds_night.mp4": "/AWeather2/static/media/broken_clouds_night.57c175eb68aa6b0ff80a.mp4",
     "static/media/mist.mp4": "/AWeather2/static/media/mist.1d83519ee670216ce772.mp4",
@@ -19,10 +20,10 @@
     "static/media/Frame14.png": "/AWeather2/static/media/Frame14.94dc116b113dfe6e8a84.png",
     "index.html": "/AWeather2/index.html",
     "main.1f27270d.css.map": "/AWeather2/static/css/main.1f27270d.css.map",
-    "main.92201b1c.js.map": "/AWeather2/static/js/main.92201b1c.js.map"
+    "main.9cbb82ae.js.map": "/AWeather2/static/js/main.9cbb82ae.js.map"
   },
   "entrypoints": [
     "static/css/main.1f27270d.css",
-    "static/js/main.92201b1c.js"
+    "static/js/main.9cbb82ae.js"
   ]
 }
