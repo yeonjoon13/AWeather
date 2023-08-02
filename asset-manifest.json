@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AWeather2/static/css/main.1f27270d.css",
-    "main.js": "/AWeather2/static/js/main.d9e28c4a.js",
+    "main.js": "/AWeather2/static/js/main.92201b1c.js",
     "static/media/clearsky_night.mp4": "/AWeather2/static/media/clearsky_night.3a5688c4e649db46b601.mp4",
     "static/media/mist2.mp4": "/AWeather2/static/media/mist2.fe363c100f5612de2e2e.mp4",
     "static/media/few_clouds_morning.mp4": "/AWeather2/static/media/few_clouds_morning.e6d97fcf866254b1d62b.mp4",
@@ -19,10 +19,10 @@
     "static/media/Frame14.png": "/AWeather2/static/media/Frame14.94dc116b113dfe6e8a84.png",
     "index.html": "/AWeather2/index.html",
     "main.1f27270d.css.map": "/AWeather2/static/css/main.1f27270d.css.map",
-    "main.d9e28c4a.js.map": "/AWeather2/static/js/main.d9e28c4a.js.map"
+    "main.92201b1c.js.map": "/AWeather2/static/js/main.92201b1c.js.map"
   },
   "entrypoints": [
     "static/css/main.1f27270d.css",
-    "static/js/main.d9e28c4a.js"
+    "static/js/main.92201b1c.js"
   ]
 }
