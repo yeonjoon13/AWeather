@@ -88,7 +88,7 @@ function App() {
           if (parseInt(data2.formatted.substring(10,16)) > 17) {
             setBackground(broken_clouds_night)
           } else {
-            setBackground(rain_night)
+            setBackground(broken_clouds_day)
           }
         } else if (data.weather[0].description === "clear sky") {
           if (parseInt(data2.formatted.substring(10,16)) > 17) {
